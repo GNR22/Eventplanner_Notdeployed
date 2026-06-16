@@ -1,8 +1,0 @@
-Clear pnpm store cache (main one)
-type: 
-pnpm store prune
-
-or 
-
-pnpm store prune --force
-
