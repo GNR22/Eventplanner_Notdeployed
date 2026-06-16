@@ -657,6 +657,4 @@ CREATE INDEX "Session_userId_idx" ON "Session"("userId");
 
 ---
 
-# 📄 License
 
-Distributed under the MIT License.
